@@ -1,4 +1,4 @@
-# Hi there, I'm Egor.
+# 
 
 I'm getting started with GitHub.
 
