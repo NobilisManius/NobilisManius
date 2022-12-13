@@ -1,6 +1,4 @@
-# 
-
-I'm getting started with GitHub.
+# Hi there, I'm Egor.
 
 ## Skills: 
 - C++
@@ -11,4 +9,3 @@ I'm getting started with GitHub.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NobilisManius&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NobilisManius)](https://github.com/anuraghazra/github-readme-stats)
-
