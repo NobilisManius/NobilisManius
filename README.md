@@ -5,7 +5,7 @@
 - Py
 - C#
 
-## Random stats: 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NobilisManius&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NobilisManius)](https://github.com/anuraghazra/github-readme-stats)
+## Projects and activities:
+- I work on scripts for various data processing in the semiconductor industry. Mostly in Python, but I often work with C and TCL.
+- At the moment I'm reading books on data science, I want to learn how to analyze data. Of course, in university I had to deal with plotting complex graphs or manipulating a lot of values, but it's too simple and I want to go deeper into the subject.
+- Learning to use Unity and C#, I have some concepts for games that would be interesting to develop.
